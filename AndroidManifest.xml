@@ -3,7 +3,9 @@
       package="com.imooc.imageloader"
       android:versionCode="1"
       android:versionName="1.0">
-
+	<uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="18" />
 
     <application android:icon="@drawable/icon" android:label="@string/app_name">
         <activity android:name=".MainActivity"
