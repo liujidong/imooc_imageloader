@@ -1,4 +1,4 @@
-#imooc_imageloader# 
+#imooc_imageloader 
 ![image](https://github.com/liujidong/imooc_imageloader/raw/master/screenshots/Screenshot_2016-01-27-18-56-27.png) 
 ![image](https://github.com/liujidong/imooc_imageloader/raw/master/screenshots/Screenshot_2016-01-27-18-59-48.png) 
 ![image](https://github.com/liujidong/imooc_imageloader/raw/master/screenshots/Screenshot_2016-01-27-19-04-48.png) 
